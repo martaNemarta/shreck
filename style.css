@@ -1,0 +1,21 @@
+.header, .imgCon, #btn{
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase ;
+}
+
+body{
+    background-color: #94c915;
+}
+h1,h2{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+#one,#two{
+    padding: 20px;
+    color: black;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+
+}
