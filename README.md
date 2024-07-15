@@ -4,7 +4,6 @@
 
 [<img src = 'https://i.pinimg.com/originals/0d/9a/dc/0d9adc3c532916d875055668ac46611c.gif' width='300' alt='shreck'>]
 
- Enjoy sorting out Shreck's fate
 
 Skills: JS / HTML / CSS 
 
